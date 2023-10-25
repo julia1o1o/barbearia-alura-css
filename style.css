@@ -1,6 +1,10 @@
 body {
     background-color: #cccccc;
   }
+
+  #banner {
+    width: 100%;
+  }
   
 h1 {
     text-align: center
@@ -38,4 +42,9 @@ h1 {
 
   em strong {
       color: red;
+  }
+
+  .itens {
+
+    font-style: italic;
   }
